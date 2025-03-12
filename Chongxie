@@ -188,7 +188,7 @@ hostname = api.gongkaoleida.com, magev6.if.qidian.com, syh.zybang.com, pzoap.moe
 # 搜索框填充词
 
 # 开屏广告,播放广告
-
+^https?:\/\/(kjp|t7z)\.cupid\.iqiyi\.com\/mixer\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/cnftp.js
 
 # > 爱企查
 # hostname = b2baifanfan.baidu.com
